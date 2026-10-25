@@ -1,13 +1,13 @@
 # Sébastien Ramirez — Portfolio
 
-Mon site vitrine présente mon parcours, mes compétences et une sélection de cinq projets réalisés à l'EFREI. Je recherche une **alternance en informatique de deux ans à partir de septembre 2027**, en Île-de-France.
+Mon site vitrine présente mon parcours, mes compétences et sept projets réalisés à l'EFREI. Je recherche une **alternance en informatique de deux ans à partir de septembre 2027**, en Île-de-France.
 
 **[Consulter le portfolio](https://sebastienrmz.github.io/portfolio/)** · [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-ramirez-746999329/)
 
 ## Contenu
 
 - Présentation et informations sur l'alternance recherchée.
-- Projets en C, Python, SQL et développement web, avec les liens vers leurs dépôts.
+- Projets en C, Python, SQL, développement web et mobile, avec les liens vers leurs dépôts.
 - Formation à l'EFREI, semestre à Toronto et expériences professionnelles.
 - Compétences, langues et coordonnées.
 
